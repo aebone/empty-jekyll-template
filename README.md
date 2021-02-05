@@ -1,0 +1,3 @@
+`$ bundle install`   
+`$ jekyll serve`   
+👍🏼
