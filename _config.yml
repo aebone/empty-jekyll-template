@@ -1,0 +1,5 @@
+title: Title
+baseUrl: ""
+collections:
+  tags:
+    output: true
